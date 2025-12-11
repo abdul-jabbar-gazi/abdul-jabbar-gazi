@@ -42,14 +42,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=niloygazi&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloygazi&theme=tokyonight" height="165" />
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloygazi&layout=compact&theme=tokyonight" height="165" />
-</p>
+</p> -->
 
 ---
 
