@@ -53,9 +53,7 @@
 
 ---
 
-# 🧩 Additional Sections
-
-Below are customizable extra sections. Feel free to edit or remove them.
+# 🧩 Additional Info
 
 ---
 
