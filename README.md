@@ -13,7 +13,7 @@
 - 🔭 *I’m currently working on:* A Space App  
 - 🌱 *I’m currently learning:* JavaScript & ReactJS  
 - 💬 *Ask me about:* JavaScript  
-- 📫 *Reach me at:* *niloy.gazi@outlook.com*  
+- 📫 *Reach me at:* 
 - ⚡ *Fun fact:* I know a little bit about many things 😁  
 
 ---
